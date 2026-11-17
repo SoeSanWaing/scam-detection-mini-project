@@ -1,0 +1,3 @@
+model,precision,recall,f1,accuracy,backend
+Baseline (TF-IDF + LogReg),1.0,0.7647,0.8667,0.9554,GPU/cuML
+BERT (HF fine-tuned),0.9877,0.9471,0.967,0.9877,GPU/transformers

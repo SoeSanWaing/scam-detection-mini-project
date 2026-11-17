@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local archives / datasets not needed for deployment
+*.zip
+MiniProject_Colab/
+
+# Pipeline scratch output (regenerated; not needed by the Streamlit app)
+outputs/hf_experiments/
+outputs/nemo_experiments/
+
+# Keep the deployment artifacts (do NOT ignore artifacts/):
+# artifacts/cuml_baseline.joblib, bert_phishing_model/, graph_clusters.json, model_benchmark.csv
+
+# OS / editor
+.DS_Store
+.vscode/

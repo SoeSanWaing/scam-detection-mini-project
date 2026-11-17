@@ -1,0 +1,340 @@
+{
+  "top_pagerank": [
+    {
+      "term": "call",
+      "pagerank": 0.03202233184408779
+    },
+    {
+      "term": "now",
+      "pagerank": 0.017842626590316872
+    },
+    {
+      "term": "free",
+      "pagerank": 0.015612302519482915
+    },
+    {
+      "term": "url",
+      "pagerank": 0.01301109357985785
+    },
+    {
+      "term": "txt",
+      "pagerank": 0.01175423245169456
+    },
+    {
+      "term": "mobile",
+      "pagerank": 0.010274521601661493
+    },
+    {
+      "term": "claim",
+      "pagerank": 0.010003736377677151
+    },
+    {
+      "term": "stop",
+      "pagerank": 0.00897933208753728
+    },
+    {
+      "term": "reply",
+      "pagerank": 0.008603850016433715
+    },
+    {
+      "term": "text",
+      "pagerank": 0.008547590896989898
+    },
+    {
+      "term": "customer",
+      "pagerank": 0.007980842968765903
+    },
+    {
+      "term": "get",
+      "pagerank": 0.0074509583170891125
+    },
+    {
+      "term": "prize",
+      "pagerank": 0.007329148692285415
+    },
+    {
+      "term": "only",
+      "pagerank": 0.007064207546873731
+    },
+    {
+      "term": "please",
+      "pagerank": 0.006808984398375602
+    },
+    {
+      "term": "been",
+      "pagerank": 0.00651130602921207
+    },
+    {
+      "term": "just",
+      "pagerank": 0.0061861387944964746
+    },
+    {
+      "term": "contact",
+      "pagerank": 0.005997040661732018
+    },
+    {
+      "term": "new",
+      "pagerank": 0.005533151945530607
+    },
+    {
+      "term": "send",
+      "pagerank": 0.005364909597435611
+    }
+  ],
+  "num_communities": 13,
+  "louvain_clusters": [
+    {
+      "cluster_id": 3,
+      "size": 321,
+      "top_terms": [
+        "now",
+        "stop",
+        "just",
+        "send",
+        "per",
+        "msg",
+        "uk",
+        "chat",
+        "sms",
+        "min",
+        "go",
+        "live",
+        "rate",
+        "texts",
+        "com"
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 279,
+      "top_terms": [
+        "free",
+        "url",
+        "txt",
+        "get",
+        "win",
+        "nokia",
+        "week",
+        "tone",
+        "every",
+        "more",
+        "chance",
+        "message",
+        "wk",
+        "st",
+        "mob"
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "size": 177,
+      "top_terms": [
+        "call",
+        "claim",
+        "mobile",
+        "customer",
+        "prize",
+        "only",
+        "please",
+        "contact",
+        "been",
+        "urgent",
+        "guaranteed",
+        "won",
+        "dear",
+        "draw",
+        "code"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 113,
+      "top_terms": [
+        "reply",
+        "text",
+        "new",
+        "phone",
+        "mins",
+        "any",
+        "video",
+        "want",
+        "do",
+        "latest",
+        "offer",
+        "network",
+        "camera",
+        "delivery",
+        "anytime"
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 84,
+      "top_terms": [
+        "voucher",
+        "here",
+        "gbp",
+        "weeks",
+        "link",
+        "holder",
+        "pc",
+        "recently",
+        "use",
+        "http",
+        "click",
+        "online",
+        "next",
+        "apple",
+        "noticed"
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "size": 81,
+      "top_terms": [
+        "cash",
+        "cs",
+        "holiday",
+        "ppm",
+        "landline",
+        "collection",
+        "box",
+        "sae",
+        "po",
+        "await",
+        "cost",
+        "del",
+        "complimentary",
+        "sol",
+        "costa"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 72,
+      "top_terms": [
+        "out",
+        "find",
+        "today",
+        "special",
+        "day",
+        "orange",
+        "opt",
+        "make",
+        "thinks",
+        "admirer",
+        "reveal",
+        "secret",
+        "why",
+        "information",
+        "important"
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 67,
+      "top_terms": [
+        "can",
+        "phones",
+        "content",
+        "welcome",
+        "goto",
+        "other",
+        "over",
+        "delivered",
+        "still",
+        "settings",
+        "refused",
+        "access",
+        "tenants",
+        "loan",
+        "charges"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "size": 66,
+      "top_terms": [
+        "ringtone",
+        "all",
+        "services",
+        "thanks",
+        "charged",
+        "order",
+        "dating",
+        "someone",
+        "reference",
+        "should",
+        "arrive",
+        "guess",
+        "true",
+        "id",
+        "x49"
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "size": 52,
+      "top_terms": [
+        "care",
+        "help",
+        "card",
+        "ph",
+        "within",
+        "block",
+        "kyc",
+        "activate",
+        "paytm",
+        "due",
+        "upgrade",
+        "office",
+        "immediately",
+        "atm",
+        "thank"
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "size": 39,
+      "top_terms": [
+        "games",
+        "play",
+        "congrats",
+        "mates",
+        "year",
+        "wid",
+        "java",
+        "videochat",
+        "rentl",
+        "noline",
+        "videophones",
+        "dload",
+        "bx420",
+        "ip4",
+        "etc"
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "size": 8,
+      "top_terms": [
+        "deals",
+        "herbal",
+        "termite",
+        "chemical",
+        "bedbug",
+        "rats",
+        "cockroach",
+        "rid"
+      ]
+    },
+    {
+      "cluster_id": 12,
+      "size": 2,
+      "top_terms": [
+        "launches",
+        "extn"
+      ]
+    }
+  ]
+}
