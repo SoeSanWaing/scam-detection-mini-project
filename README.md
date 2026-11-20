@@ -172,3 +172,6 @@ mounts Google Drive, installs `transformers==4.44.2 datasets accelerate`, runs
 all four modules, and exports the same `artifacts/`. Module 3 there uses
 HuggingFace `transformers` (not NeMo) for Colab reliability, producing the same
 `bert_phishing_model/` folder the app loads.
+
+## References
+Data source: https://data.mendeley.com/datasets/f45bkkt8pr/1
